@@ -8,3 +8,9 @@ Homework
 ![screenshot3](https://user-images.githubusercontent.com/99621674/153975578-2ae3507e-10a6-4d5b-9dc3-ce3c0279b6c3.png)
 ![screenshot3 2](https://user-images.githubusercontent.com/99621674/153975583-291937fb-fda9-492e-a998-7867f06f6dbd.png)
 ![screenshot4](https://user-images.githubusercontent.com/99621674/153975589-68d50054-9c5f-44ac-9b1a-a11dbee166c0.png)
+
+3 - Create hypervisor building block for type 1 and type2
+![Virtualization Stack3](https://user-images.githubusercontent.com/99621674/153977776-319bed12-fbaa-4aac-a303-c4f4ddbd4b55.png)
+
+4 - Differentiate between IaaS, PaaS and SaaS layer wise
+
