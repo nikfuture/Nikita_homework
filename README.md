@@ -13,6 +13,7 @@ Homework
 ![Virtualization Stack3](https://user-images.githubusercontent.com/99621674/153978072-cd90c6a2-4c18-4c3f-bdce-411e44bbceda.png)
 
 4 - Differentiate between IaaS, PaaS and SaaS layer wise
+
 IaaS, PaaS, and SaaS are the main models for delivering cloud services. 
   in IaaS, the client receives only the infrastructure;
   in PaaS - infrastructure and software prepared for application development;
