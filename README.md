@@ -15,6 +15,9 @@ Homework
 4 - Differentiate between IaaS, PaaS and SaaS layer wise
 
 IaaS, PaaS, and SaaS are the main models for delivering cloud services. 
+
   in IaaS, the client receives only the infrastructure;
+  
   in PaaS - infrastructure and software prepared for application development;
+  
   in SaaS - a ready-made application running in the cloud.
